@@ -1,5 +1,5 @@
 ---
-title: "BigMartSales"
+title: "Big Mart Sales Prediction"
 author: "Rihad Variawa"
 date: "1/13/2019"
 output: html_document
