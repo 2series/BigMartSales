@@ -1,4 +1,4 @@
-# Big_Mart_Sales
+# Big_Mart_Sales_Prediction_Using_R
 
 About this Analysis:
 
